@@ -31,7 +31,7 @@ None. Instead, we have a list of recommended readings on the web site.
 
 This is a **TENTATIVE** schedule for the course. 
 
-<iframe src="https://docs.google.com/spreadsheets/d/1680EiDxX0SeOq2iNuQtKicHPgRKjq4K6AB28huL09SE/pubhtml?gid=0&single=true&amp;widget=true&amp;headers=false" width="100%" height="800"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1680EiDxX0SeOq2iNuQtKicHPgRKjq4K6AB28huL09SE/pubhtml?gid=76128282&single=true&amp;widget=true&amp;headers=false" width="100%" height="800"></iframe>
 
 #### Office Hours
 
