@@ -19,3 +19,6 @@ title: Homework
 * HW3 Assignment: [GitHub](https://github.com/datasciencelabs/2016/tree/master/homework/HW3), [HTML](html/hw3-problems.html)
 * HW3 Solution: [GitHub](https://github.com/datasciencelabs/2016/tree/master/homework/HW3), [HTML](html/hw3-solution.html)
 
+## HW4
+
+* HW4 Assignment: [GitHub](https://github.com/datasciencelabs/2016/tree/master/homework/HW4), [HTML](html/hw4-problems.html)
