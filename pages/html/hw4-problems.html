@@ -124,8 +124,8 @@ library(broom)</code></pre>
 <p>You can see tables that are available when you load this package by typing</p>
 <pre class="r"><code>?Lahman</code></pre>
 </div>
-<div id="problem-1-70-of-grade" class="section level1">
-<h1>Problem 1 (70% of grade)</h1>
+<div id="problem-1-80-of-grade" class="section level1">
+<h1>Problem 1 (80% of grade)</h1>
 <p>Statistics have been used in baseball since its beginnings. Note that <code>Lahman</code> goes back to the 19th century. Batting average, for example, has been used to summarize a batter’s success for decades. <a href="http://mlb.mlb.com/stats/league_leaders.jsp">Other statistics</a> such as home runs, runs batted in (RBI) and stolen bases have been reported and players rewarded for high numbers. However, until <a href="https://en.wikipedia.org/wiki/Bill_James">Bill James</a> introduced <a href="https://en.wikipedia.org/wiki/Sabermetrics">sabermetrics</a>, careful analyses had not been done to determine if these statistics actually help a team win. To simplify the exercise we will focus on scoring runs and ignore pitching and fielding.</p>
 <div id="problem-1a" class="section level2">
 <h2>Problem 1A</h2>
@@ -251,8 +251,8 @@ my_salaries &lt;- Salaries %&gt;%
 <pre class="r"><code>## your code here</code></pre>
 </div>
 </div>
-<div id="problem-3-10-of-grade" class="section level1">
-<h1>Problem 3 (10% of grade)</h1>
+<div id="problem-3-bonus" class="section level1">
+<h1>Problem 3 (Bonus)</h1>
 <p>Now we are going to build a baseball team for the 2002 season. We get to pick one of each of the 9 batting positions DH, C, 1B, 2B, 3B, SS, CF and two outfielders (OF, LF, or RF). We will pick players active in 2002 but you will have to pay each player whatever their maximum salary was during their entire career. You have a total of $50 million. Show us your team and how many runs you think they will produce. Note the number of runs per games of the best teams:</p>
 <pre class="r"><code>Teams %&gt;%
   filter(yearID == 2012, lgID == &quot;AL&quot;) %&gt;%
@@ -300,7 +300,7 @@ my_salaries &lt;- Salaries %&gt;%
   lm(R ~ BB + Singles + XB + HR, data = .)</code></pre>
 <ol start="4" style="list-style-type: decimal">
 <li><p>Create a predicted runs for each player that answers the question: what happens if this player was the only hitter on the team? Focus on players with more than 400 plate appearances that played in 2002. Assume that each team has 6000 plate appearances in each 162 game. From here and from hints 1 and 3 you can create a predicted runs per game statistics for each player. Then look for outliers in terms of producing more runs given their salary.</p></li>
-<li><p>The <code>lp</code> function in the <code>lpSolve</code> package may be useful for optimizing a team. But you can also do it in an ad-hoc fashion. Once you are done with your team, use the regression fit above to predict the number of runs per game your team will produce</p></li>
+<li><p>The <code>lp</code> function in the <code>lpSolve</code> package may be useful for optimizing a team. But you can also do it in an ad-hoc fashion. Once you are done with your team, use the regression fit above to predict the number of runs per game your team will produce.</p></li>
 </ol>
 </div>
 
