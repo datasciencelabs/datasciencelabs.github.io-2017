@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Final Projects
 ---
 
 
@@ -8,7 +8,7 @@ For your final assignment in this course you will work on a month-long data scie
 
 #### Project Team
 
-You will work closely with other classmates in a **team** of 3 on this project. You can come up with your own teams and use Canvas to find prospective team members. If you can't find partners we will team you up randomly. We recognize that individual schedules, different time zones, preferences, and other constraints might limit your ability to work in a team. If this the case, ask us for permission to work alone. In general, we do not anticipate that the grades for each group member will be different. However, we reserve the right to assign different grades to each group member based on peer assessments (see below).
+You will work closely with other classmates in a **team** of 3 on this project. You can come up with your own teams and use Canvas to find prospective team members. If you can't find partners we will team you up randomly. We recognize that individual schedules, different time zones, preferences, and other constraints might limit your ability to work in a team. If this is the case, ask us for permission to work alone. In general, we do not anticipate that the grades for each group member will be different. However, we reserve the right to assign different grades to each group member based on peer assessments (see below).
 
 #### Project Milestones 
 There are a few milestones for your final project. It is critical to note that **no extensions will be given** for any of the project due dates for any reason. Late days may not be used. Projects submitted after the final due date will not be graded. If you anticipate any issues (e.g., due to business travel) you need to send an email to the staff mailing list at least one week in advance.
@@ -28,11 +28,11 @@ Wednesday, May 11 | Project presentations and best project prizes
 There are several deliverables for your project that will be graded individually to make up your final project score.
 
 #### Team Registration and Proposal
-You start by filling out this [google form to define your teams and project proposal](http://goo.gl/forms/kvfajmTZJM). This form should be filled out by Friday April 8, 2016 by **11:59pm (EST)**. The title can be change at a later date. **Each team will only need to submit one form**. Based on your proposals you will be assigned a TA to your team who will guide you through the rest of the project. You will schedule a project review meeting with your TA the following week (April 11-17, 2016). Make sure all of your team members are present at the meeting. Online students can schedule a Skype meeting with their TF. 
+You start by filling out this [google form to define your teams and project proposal](http://goo.gl/forms/kvfajmTZJM). This form should be filled out by Friday April 8, 2016 by **11:59pm (EST)**. The title can be changed at a later date. **Each team will only need to submit one form**. Based on your proposals you will be assigned a TA to your team who will guide you through the rest of the project. You will schedule a project review meeting with your TA the following week (April 11-17, 2016). Make sure all of your team members are present at the meeting. Online students can schedule a Skype meeting with their TA. 
 
 #### RMarkdown and HTML files
 
-An important part of your project are your RMarkdown and HTML files. This will detail your steps in developing your solution, including how you collected the data, alternative solutions you tried, describing statistical methods you used, and the insights you got. **Equally important to your final results is how you got there!** Your RMarkdown and HTML files are the place you describe and document the space of possibilities you explored at each step of your project. We strongly advise you to include many visualizations.
+An important part of your project is the RMarkdown and HTML files. This will detail your steps in developing your solution, including how you collected the data, alternative solutions you tried, describing statistical methods you used, and the insights you got. **Equally important to your final results is how you got there!** Your RMarkdown and HTML files are the place you describe and document the space of possibilities you explored at each step of your project. We strongly advise you to include many visualizations.
 
 Your RMarkdown should include the following topics. Depending on your project type the amount of discussion you devote to each of them will vary:
 
@@ -47,24 +47,24 @@ As this will be your only chance to describe your project in detail make sure th
 
 #### Code
 
-We expect you to write high-quality and readable R code in your RMarkdown file. You should strive for doing things the right way and think about aspects such as reusability, error handling, etc. We also expect you to document your code.
+We expect you to write high-quality and readable R code in your RMarkdown file. You should strive for doing things the right way and think about aspects such as reproducibility, cleaning data, etc. We also expect you to document your code.
 
 
 #### Peer Assessment
 
-It is important to provide positive feedback to people who truly worked hard for the good of the team and to also make suggestions to those you perceived not to be working as effectively on team tasks. We ask you to provide an honest assessment of the contributions of the members of your team, including yourself. The feedback you provide should reflect your judgment of each team member?s:
+It is important to provide positive feedback to people who truly worked hard for the good of the team and to also make suggestions to those you perceived not to be working as effectively on team tasks. We ask you to provide an honest assessment of the contributions of the members of your team, including yourself. The feedback you provide should reflect your judgment of each team member:
 
 * Preparation - were they prepared during team meetings?
 * Contribution - did they contribute productively to the team discussion and work?
 * Respect for others' ideas - did they encourage others to contribute their ideas?
 * Flexibility - were they flexible when disagreements occurred?
 
-Your teammate's assessment of your contributions and the accuracy of your self-assessment will be considered as part of your overall project score.  The peer assessment is due due Wednesday, May 4 by **11:59pm (EST)**. For instructions on how to submit, please see **Submission Instructions** below.
+Your teammate's assessment of your contributions and the accuracy of your self-assessment will be considered as part of your overall project score.  The peer assessment is due Wednesday, May 4 by **11:59pm (EST)**. For instructions on how to submit, please see **Submission Instructions** below.
 
 
 #### Project Website
 
-You will create a public website for your project using [Google Sites](https://sites.google.com/?pli=1) or Github Pages or any other web hosting service of your choice. The web site should effectively summarize the main results of your project and tell a story. Consider your audience (the site is public) and keep the level of discussion at the appropriate level. Your RMarkdown file, HTML file and data should be linked to the web site as well, either using a zip file, [github](https://github.com), [bitbucket](https://bitbucket.org), or another code hosting site. Also embed your main visualizations and your screencast in your website.
+You will create a public website for your project using [Google Sites](https://sites.google.com/?pli=1) or Github Pages or any other web hosting service of your choice. The web site should effectively summarize the main results of your project and tell a story. Consider your audience (the site is public) and keep the level of discussion at the appropriate level. Your RMarkdown file, HTML file and data should be linked from your GitHub Repository (see below) to the web site as well. Also embed your main visualizations and your screencast in your website.
 
 The final project website is due Friday, May 6 by **11:59pm (EST)**.  For instructions on how to submit, please see **Submission Instructions** below.  
 
@@ -81,11 +81,11 @@ The final project screen cast is due Friday, May 6 by **11:59pm (EST)**.  For in
 
 #### <font color='red'> How to submit the RMarkdown and HTML files (due May 4) </font>
 
-1. Create a GitHub repository which should include the data used for the final project, the RMarkdown file and the compiled HTML file.  If the data is too big to fit in the repository, make the data accessible somewhere online (google drive, downloadable link, etc). Inside the RMarkdown file at the top, include instructions on where to access the data.  *If we cannot access your work or links because these directions are not followed correctly, we will not grade your work*. 
+1. Create a GitHub repository which should include the data used for the final project, the RMarkdown file and the compiled HTML file.  If the data are too big to fit in the repository, make the data accessible somewhere online (google drive, downloadable link, etc). Inside the RMarkdown file at the top, include instructions on where to access the data.  *If we cannot access your work or links because these directions are not followed correctly, we will not grade your work*. 
 2. You should only have one GitHub repository per team, but make sure the names of all group members are inside the RMarkdown file at the top.  
-3. Email your TF instructions on where to access the data and the location of your GitHub repository. 
+3. Email your TA instructions on where to access the data and the location of your GitHub repository. 
 
-#### <font color='red'> How to submit the Peer Assessment (due May 6) </font>
+#### <font color='red'> How to submit the Peer Assessment (due May 4) </font>
 
 Each individual team member needs to fill out this google form for the peer evaluation (**link coming soon**). Your individual project score will take into account this self and peer assessment. 
 
