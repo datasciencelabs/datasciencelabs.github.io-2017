@@ -107,3 +107,17 @@ The final project is graded in two parts:
 
 Your individual project score will also be determined by your peer evaluations. 
 
+
+
+## Examples Final Projects 
+
+Here are some examples of successful final projects. **Note**: These projects came from another course we taught on Data Science similar to this one except the previous course used Python, not R.  
+
+1. **Predicting Hubway bike/dock availability** ([Website](http://cs109hubway.github.io/classp/), [Screencast](http://youtu.be/2wK8jpNMjXI))
+2. **Across the Bay 10K Race** ([Website](https://sites.google.com/site/atb10kbridgerace/home), [Screencast](https://sites.google.com/site/atb10kbridgerace/home/screencast)) 
+3. **Ale Augur: Quantifying and Predicting Beer Preference with the Untapped API** ([Website](http://beer.iandnightingale.com), screencast no longer available)
+4. **The Green Canvas** ([Website](http://ahmedhosny.github.io/theGreenCanvas/), [Screencast](http://vimeo.com/114379373))
+5. **Predicting Citation Counts of arXiv Papers** ([Website](https://sites.google.com/site/teamcitations/), [Screencast](http://youtu.be/bjAcHu8JRG0))
+6. **Improving University Energy Efficiency: Building Energy Demand Prediction** ([Website](http://cs109-energy.github.io/), [Screencast](http://youtu.be/JiAQxctOntQ))
+7. **Predicting AirBnb Success** ([Website](http://hamelsmu.github.io/AirbnbScrape/), [Screencast](https://www.youtube.com/watch?v=raGjUj5qArc))
+
