@@ -109,7 +109,7 @@ Your individual project score will also be determined by your peer evaluations.
 
 
 
-## Examples Final Projects 
+## Example Final Projects 
 
 Here are some examples of successful final projects. **Note**: These projects came from another course we taught on Data Science similar to this one except the previous course used Python, not R.  
 
