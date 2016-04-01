@@ -22,6 +22,7 @@ title: Homework
 ## HW4
 
 * HW4 Assignment: [GitHub](https://github.com/datasciencelabs/2016/tree/master/homework/HW4), [HTML](html/hw4-problems.html)
+* HW4 Solution: [GitHub](https://github.com/datasciencelabs/2016/tree/master/homework/HW4), [HTML](html/hw4-solution.html)
 
 ## HW5
 
