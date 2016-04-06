@@ -17,3 +17,4 @@ twitter data from [here](https://twitter.com/waldenpondstate).  Possible predict
 | Predict Real Estate Prices | Help home buyers make a good bid.  For any latitude and longitude provide a range of prices for a homes. Predictors will be  latitude, longitud, square footage, number of baths and bedroomw, previous price adjusted for inflation| 3 |
 |Enter a Kaggle Competition | Pick a competition relevant to you from [here](https://www.kaggle.com/competitions). | 1-3|
 
+
