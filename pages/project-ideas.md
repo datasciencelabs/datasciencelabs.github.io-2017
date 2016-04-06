@@ -7,7 +7,7 @@ Our preference is that you pick a project that that is of particular
 interest to your team. In particular, we recommend projects that are relevant to your own research, your company or your personal life. With that said, here some ideas for projects of different difficulty levels.
 
 
-| Title | Description | Project | Recommended Members |
+| Title | Description |  Recommended Members |
 |-----------|-----------------------------------|
 | Twitter followers | Predict the number of follower a user has based on number of tweets, users followed, favorites, geographical location, language, data joined, etc... |  1 |
 | Is Walden Pond open |  Walden Pond closes when it reaches capacity. This is unpredictable and is announced on Twitter. Build an app that predicts when Walden Pond will next close. You can scrape
