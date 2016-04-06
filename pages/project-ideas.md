@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lectures
+title: Project Ideas
 ---
 
 Our preference is that you pick a project that that is of particular
@@ -12,7 +12,8 @@ interest to your team. In particular, we recommend projects that are relevant to
 | Twitter followers | Predict the number of follower a user has based on number of tweets, users followed, favorites, geographical location, language, data joined, etc... |  1 |
 | Is Walden Pond open |  Walden Pond closes when it reaches capacity. This is unpredictable and is announced on Twitter. Build an app that predicts when Walden Pond will next close. You can scrape
 twitter data from [here](https://twitter.com/waldenpondstate).  Possible predictors are temperature, day of the week, day of the year, and hour of the day. | 2 | 
-Independence and health outcomes | How does health and economic status change for Caribbean and African countries after independence. | 2 |
-Does spending improve education | Obtain and organize education outcomes and expenditures data at the county level. Describe the relationship between these variables. Obtain and compare these data to international data | 3 |
-Enter a Kaggle Competition | Pick a competition relevant to you from [here](https://www.kaggle.com/competitions). | 1-3|
+| Independence and health outcomes | How does health and economic status change for Caribbean and African countries after independence. | 2 |
+| Does spending improve education | Obtain and organize education outcomes and expenditures data at the county level. Describe the relationship between these variables. Obtain and compare these data to international data | 3 |
+| Predict Real Estate Prices | Help home buyers make a good bid.  For any latitude and longitude provide a range of prices for a homes. Predictors will be  latitude, longitud, square footage, number of baths and bedroomw, previous price adjusted for inflation| 3 |
+|Enter a Kaggle Competition | Pick a competition relevant to you from [here](https://www.kaggle.com/competitions). | 1-3|
 
