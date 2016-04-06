@@ -8,7 +8,7 @@ interest to your team. In particular, we recommend projects that are relevant to
 
 
 | Title | Description |  Recommended Members |
-|-----------|-----------------------------------|------|
+|-----------|-----------------------------------|:------:|
 | Twitter followers | Predict the number of follower a user has based on number of tweets, users followed, favorites, geographical location, language, data joined, etc... |  1 |
 | Is Walden Pond open |  Walden Pond closes when it reaches capacity. This is unpredictable and is announced on Twitter. Build an app that predicts when Walden Pond will next close. You can scrape
 twitter data from [here](https://twitter.com/waldenpondstate).  Possible predictors are temperature, day of the week, day of the year, and hour of the day. | 2 | 
