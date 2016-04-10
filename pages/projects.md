@@ -92,7 +92,7 @@ Each individual team member needs to fill out this google form for the peer eval
 
 #### <font color='red'> How to submit the Website and Screencast (due May 6) </font>
 
-Fill out this google form to submit the links to the website and screen cast (**link coming soon**).  *If we cannot access the website or screencast, we cannot grade it.*
+Fill out this [google form to submit the links to the website and screen cast](http://goo.gl/forms/REYjU4U8AF). *If we cannot access the website or screencast, we cannot grade it.*
 
 
 ## Grading
