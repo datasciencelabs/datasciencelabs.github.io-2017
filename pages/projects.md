@@ -87,7 +87,7 @@ The final project screen cast is due Friday, May 6 by **11:59pm (EST)**.  For in
 
 #### <font color='red'> How to submit the Peer Assessment (due May 4) </font>
 
-Each individual team member needs to fill out this google form for the peer evaluation (**link coming soon**). Your individual project score will take into account this self and peer assessment. 
+Each individual team member needs to fill out this [google form for the peer evaluation](http://goo.gl/forms/AjyIeYcOse). Your individual project score will take into account your self and peer assessment. 
 
 
 #### <font color='red'> How to submit the Website and Screencast (due May 6) </font>
