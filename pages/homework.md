@@ -27,3 +27,7 @@ title: Homework
 ## HW5
 
 * HW5 Assignment: [GitHub](https://github.com/datasciencelabs/2016/tree/master/homework/HW5), [HTML](html/hw5-problems.html)
+
+## HW6
+
+* HW6 Assignment: [GitHub](https://github.com/datasciencelabs/2016/tree/master/homework/HW6), [HTML](html/hw6-problems.html)
