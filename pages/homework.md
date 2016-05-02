@@ -32,3 +32,4 @@ title: Homework
 ## HW6
 
 * HW6 Assignment: [GitHub](https://github.com/datasciencelabs/2016/tree/master/homework/HW6), [HTML](html/hw6-problems.html)
+* HW6 Solution: [GitHub](https://github.com/datasciencelabs/2016/tree/master/homework/HW6), [HTML](html/hw6-solution.html)
