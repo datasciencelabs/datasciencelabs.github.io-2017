@@ -16,5 +16,6 @@ interest to your team. In particular, we recommend projects that are relevant to
 | Predict Real Estate Prices | Help home buyers make a good bid.  For any latitude and longitude provide a range of prices for a homes. Predictors will be  latitude, longitud, square footage, number of baths and bedrooms, previous price adjusted for inflation| 3 |
 | The Panama Papers | This is an open ended project. The data for the Panama Papers are up on [https://github.com/amaboura/panama-papers-dataset-2016](GitHub). What can learn from these?  |1- 3 |
 |Enter a Kaggle Competition | Pick a competition relevant to you from [here](https://www.kaggle.com/competitions). | 1-3|
+| 2016 Presidential Campaign Contributions | Explore the campaign contributions for the 2016 presidential candidates. Zip files can be found [here](http://fec.gov/disclosurep/PDownload.do). Variables in data set include, city, state, date of contribution, employer, occupation. What can you learn from these? | 2 |
 
 
