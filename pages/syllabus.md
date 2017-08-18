@@ -11,10 +11,9 @@ The goal of this course is to teach students to answer questions with data. To d
 #### What is the structure of this course?
 We will learn these concepts through six data analysis projects. Grades will be based on:
 
-* 6 homeworks (30%)
+* 6 homeworks (35%)
 * 2 midterms (30%)
 * 1 final project (35%)
-* participation in discussions (5%)
 
 
 #### Late Day Policy
@@ -33,12 +32,4 @@ None. Instead, we have a list of recommended readings on the web site.
 
 This is a **TENTATIVE** schedule for the course. 
 
-
-<iframe src="https://docs.google.com/spreadsheets/d/1680EiDxX0SeOq2iNuQtKicHPgRKjq4K6AB28huL09SE/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="800"></iframe>
-
-
-#### Office Hours
-
-This is a schedule for office hours which will start Feb 1. The locations of the [office hours are available on Canvas](https://canvas.harvard.edu/courses/8329/discussion_topics/90678). 
-
-<iframe src="https://docs.google.com/spreadsheets/d/1lX45-oOBzvCVGdFiEInJPCepQ5F9cd9MkbFHiC_hyHk/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="700"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1lnqOXCAOqYrIrvtqOesWbi2G6aVdH5NUz6j2_Liptlk/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="800"></iframe>
