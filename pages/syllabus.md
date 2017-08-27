@@ -28,6 +28,12 @@ Must have basic programming knowledge, and statistics knowledge at the level of 
 #### Required Textbook
 None. Instead, we have a list of recommended readings on the web site.
 
+#### Course Website
+http://datasciencelabs.github.io/
+
+#### Course Communication (Slack)
+https://join.slack.com/t/bst260-fall2017/shared_invite/MjMxMjQ1ODk2NTYxLTE1MDM2Njk0NDgtYTUxNzIyNGE3ZQ
+
 #### Schedule 
 
 This is a **TENTATIVE** schedule for the course. 
