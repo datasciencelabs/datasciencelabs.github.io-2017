@@ -13,5 +13,5 @@ Each lecture will have a channel that will be monitored by the TAs during class.
 
 There are also additional channels you may wish to subscribe to, such as [#syllabus](https://bst260-fall2017.slack.com/messages/syllabus) and [#announcements](https://bst260-fall2017.slack.com/messages/announcements). You can browse the available channels in our team by clicking on "Channels" on the left-hand panel.
 
-There is also an [#anonymous](https://bst260-fall2017.slack.com/messages/anonymous) channel that you can use if you'd like to ask a question or provide a comment anonymously. To have a post appear anonymously in this channel, compose a direct message **to yourself** that begins with `/anon #anonymous your question`. Then the text `your question` will be sent to the #anonymous channel by the anonymous bot. 
+There is also an [#anonymous](https://bst260-fall2017.slack.com/messages/anonymous) channel that you can use if you'd like to ask a question or provide a comment anonymously. To have a post appear anonymously in this channel, compose a direct message **to yourself** (by clicking on your username in the 'Direct Messages' menu on the left panel) that begins with `/anon #anonymous your question`. Then the text `your question` will be sent to the #anonymous channel by the anonymous bot. 
 
