@@ -28,3 +28,4 @@ title: Introduction to Data Science
 * Keegan: Wednesdays 2-3pm, online (Slack and Skype, keegan.korthauer)
 * Alejandro: Thursdays 5:15-6:15pm, online (Slack and Skype, areyesq89)
 * Heather: Thursdays 10-11am, Building 1, room 421A
+* Rafael: By appointment
