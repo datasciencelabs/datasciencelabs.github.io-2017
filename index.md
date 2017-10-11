@@ -21,6 +21,7 @@ title: Introduction to Data Science
 * Keegan Korthauer
 * Matt Ploenzke
 * Alejandro Reyes
+* Chi-Hsuan
 
 #### Office Hours
 * Matt: Mondays 1-2pm, FXB G03 (September only), Kresge 204 (October-December)
@@ -28,4 +29,5 @@ title: Introduction to Data Science
 * Keegan: Wednesdays 2-3pm, Building 2, room 434
 * Alejandro: Thursdays 5:15-6:15pm, Building 2, room 434
 * Heather: Thursdays 10-11am, Building 1, room 421A
+* Chi-Hsuan: Fridays 10:30-11:30am, Building 2, room 428
 * Rafael: By appointment
