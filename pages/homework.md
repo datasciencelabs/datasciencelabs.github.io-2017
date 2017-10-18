@@ -14,3 +14,4 @@ Homework assignments and solutions will be add here throughout the semester.
 [**Homework 3**](https://github.com/datasciencelabs/2017/blob/master/homeworks/hw-3-casino/hw-3-casino.Rmd): clone the repository that was created for you [here](https://github.com/datasciencelabs-students). Due Sunday, 10/8/2017 by 11:59pm
 * Solutions: [GitHub](https://github.com/datasciencelabs/2017/tree/master/homeworks/hw-3-casino), [HTML](html/hw-3-solutions.html)
 
+[**Homework 4**](https://github.com/datasciencelabs/2017/blob/master/homeworks/hw-4-elections/hw-4-elections.Rmd): clone the repository that was created for you [here](https://github.com/datasciencelabs-students). Due Sunday, 10/29/2017 by 11:59pm
