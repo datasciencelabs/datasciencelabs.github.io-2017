@@ -20,4 +20,4 @@ Homework assignments and solutions will be add here throughout the semester.
 [**Homework 5**](https://github.com/datasciencelabs/2017/blob/master/homeworks/hw-5-moneyball/hw-5-moneyball.Rmd): clone the repository that was created for you [here](https://github.com/datasciencelabs-students). Due Sunday, 11/12/2017 by 11:59pm
 * Solutions: [GitHub](https://github.com/datasciencelabs/2017/tree/master/homeworks/hw-5-moneyball), [HTML](html/hw-5-solutions.html)
 
-[**Homework 6**](https://github.com/datasciencelabs/2017/blob/master/homeworks/hw-6-netflix/hw-6-netflix.Rmd): clone the repository that was created for you [here](https://github.com/datasciencelabs-students). Due Monday, 11/27/2017 by 11:59pm
+[**Homework 6**](https://github.com/datasciencelabs/2017/blob/master/homeworks/hw-6-netflix/hw-6-netflix.Rmd): clone the repository that was created for you [here](https://github.com/datasciencelabs-students). Due Friday, 12/1/2017 by 11:59pm
