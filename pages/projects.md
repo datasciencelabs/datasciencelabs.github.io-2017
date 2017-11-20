@@ -15,9 +15,9 @@ There are a few milestones for your final project. **It is critical to note that
 | ------------- |-------------|
 | November 6      | Form a team and submit a project proposal |
 | November 7 - 17| Project review meeting with your TA |
-| December 8 by 11:59pm | RMarkdown and compiled HTML due |
-| December 8 by 11:59pm | Peer assessment due |
-| December 8 by 11:59pm | Project webpage and screencast due |
+| December 10 by 11:59pm | RMarkdown and compiled HTML due |
+| December 10 by 11:59pm | Peer assessment due |
+| December 10 by 11:59pm | Project webpage and screencast due |
 | December 13 | Project screencasts shown and best project prizes | 
 
 ## Deliverables
@@ -59,12 +59,12 @@ It is important to provide positive feedback to people who truly worked hard for
 
 * **Flexibility**: were they flexible when disagreements occurred?
 
-Your teammates' assessment of your contributions and the accuracy of your self-assessment will be considered as part of your overall project score. The peer assessment is due Friday, December 8 by 11:59pm. For instructions on how to submit, please see **Submission Instructions** below.
+Your teammates' assessment of your contributions and the accuracy of your self-assessment will be considered as part of your overall project score. The peer assessment is due Sunday, December 10 by 11:59pm. For instructions on how to submit, please see **Submission Instructions** below.
 
 ### Project Website
 You will create a public website for your project using [Google Sites](https://sites.google.com/a/g.harvard.edu?pli=1) or Github Pages or any other web hosting service of your choice. The web site should effectively summarize the main results of your project and tell a story. Consider your audience (the site is public) and keep the level of discussion at the appropriate level. Your RMarkdown file, HTML file and data should be linked from your GitHub Repository (see below) to the web site as well. Also embed your main visualizations and your screencast in your website.
 
-The final project website is due Friday, December 8 by 11:59pm. For instructions on how to submit, please see Submission Instructions below.
+The final project website is due Sunday, December 10 by 11:59pm. For instructions on how to submit, please see Submission Instructions below.
 
 
 ### Project Screencast
@@ -72,19 +72,19 @@ Each team will create a **two minute screencast with narration** showing a demo 
 
 We will **strictly enforce the two minute time limit for the video**, so please make sure you are not running longer. Use principles of good storytelling and presentations to get your key points across. Focus the majority of your screencast on your main contributions rather than on technical details. What do you feel is the best part of your project? What insights did you gain? What is the single most important thing you would like your audience to take away? Make sure it is upfront and center rather than at the end.
 
-The final project screencast is due Friday, December 8 by 11:59pm. For instructions on how to submit, please see Submission Instructions below.
+The final project screencast is due Sunday, December 10 by 11:59pm. For instructions on how to submit, please see Submission Instructions below.
 
 
 ## Submission Instructions
-#### How to submit RMarkdown and HTML files (due Friday, December 8)
+#### How to submit RMarkdown and HTML files (due Sunday, December 10)
 1. Create a GitHub repository which should include the data used for the final project, the RMarkdown file and the compiled HTML file. If the data are too big to fit in the repository, make the data accessible somewhere online (google drive, downloadable link, etc). Inside the RMarkdown file at the top, include instructions on where to access the data. If we cannot access your work or links because these directions are not followed correctly, we will not grade your work.
 2. You should only have one GitHub repository per team, but make sure the names of all group members are inside the RMarkdown file at the top.
 3. Email your TA instructions on where to access the data and the location of your GitHub repository.
 
-#### How to submit the Peer Assessment (due Friday, December 8)
+#### How to submit the Peer Assessment (due Sunday, December 10)
 Each individual team member needs to fill out this [google form for the peer evaluation](https://docs.google.com/forms/d/e/1FAIpQLScqi_wjyFF282MjzUd5SuCUk23lbDMyYPRfUvB8sMY12xrzYQ/viewform?usp=sf_link). Your individual project score will take into account your self and peer assessment.
 
-#### How to submit the Website and Screencast (due Friday, December 8)
+#### How to submit the Website and Screencast (due Sunday, December 10)
 Fill out this [google form to submit the links to the website and screencast](https://docs.google.com/forms/d/e/1FAIpQLSdEPxx3b2xy5l_sBxE_xhO2fKDuDQc1P7XUAD9mW21qyCViag/viewform?usp=sf_link). *If we cannot access the website or screencast, we cannot grade it*.
 
 
