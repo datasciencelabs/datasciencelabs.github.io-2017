@@ -21,7 +21,7 @@ title: Introduction to Data Science
 * Keegan Korthauer
 * Matt Ploenzke
 * Alejandro Reyes
-* Chi-Hsuan
+* Chi-Hsuan Chang
 
 #### Office Hours
 * Matt: Mondays 1-2pm, FXB G03 (September only), Kresge 204 (October-December)
